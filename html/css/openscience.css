@@ -21,8 +21,8 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://tibhannover.github.io/Open-Science-Guides-Collection/html/images/cover.png);
-  background-size: 159mm 229mm;
+  background: url(https://github.com/PhiFal/Open-Science-Guides-Collection/blob/main/html/images/cover.png);
+  background-size: 159mm 159mm;
   display: flex;
   align-items: center;
   margin-top: 320mm;
@@ -37,7 +37,7 @@
     font-family:"Comfortaa", sans-serif;
     font-weight: 700;
     font-size: 40pt;
-    color: blue;
+    color: black;
     line-height: 1.6;
     text-align: center;
     margin-top: -240mm;
