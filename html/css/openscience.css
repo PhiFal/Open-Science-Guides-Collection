@@ -21,7 +21,7 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Open_access.svg/1200px-Open_access.svg.png);
+  background: url(https://raw.githubusercontent.com/PhiFal/Open-Science-Guides-Collection/main/html/images/cover.png);
   background-size: 159mm 159mm;
   display: flex;
   align-items: center;
