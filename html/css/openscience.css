@@ -34,10 +34,10 @@
   @top-right { content: normal;}
   @top-center {
     content: env(doc-title);
-    font-family:"Comfortaa", sans-serif;
+    font-family:"Roman", sans-serif;
     font-weight: 700;
     font-size: 40pt;
-    color: green;
+    color: pink;
     line-height: 1.6;
     text-align: center;
     margin-top: -240mm;
