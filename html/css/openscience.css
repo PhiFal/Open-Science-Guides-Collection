@@ -34,7 +34,7 @@
   @top-right { content: normal;}
   @top-center {
     content: env(doc-title);
-    font-family:"Roman", sans-serif;
+    font-family:"Roman", Times New Roman, sans-serif;
     font-weight: 700;
     font-size: 40pt;
     color: black;
